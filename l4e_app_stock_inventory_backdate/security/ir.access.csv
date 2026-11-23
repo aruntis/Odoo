@@ -1,0 +1,8 @@
+id,name,model_id,group_id/id,operation,domain
+access_inventory_backdate_wizard,inventory.backdate.wizard,inventory.backdate.wizard,l4e_app_stock_inventory_backdate.group_inventory_backdate,crud,
+access_inventory_backdate_wizard_line,inventory.backdate.wizard.line,inventory.backdate.wizard.line,l4e_app_stock_inventory_backdate.group_inventory_backdate,crud,
+access_inventory_backdate_log_manager,inventory.backdate.log manager,inventory.backdate.log,l4e_app_stock_inventory_backdate.group_inventory_backdate,cr,
+access_inventory_past_count_manager,inventory.past.count manager,inventory.past.count,l4e_app_stock_inventory_backdate.group_inventory_backdate,crud,
+access_inventory_past_count_stock_user,inventory.past.count stock user,inventory.past.count,stock.group_stock_user,r,
+access_inventory_backdate_log_stock_user,inventory.backdate.log stock user,inventory.backdate.log,stock.group_stock_user,r,
+access_inventory_backdate_log_account_user,inventory.backdate.log account user,inventory.backdate.log,account.group_account_readonly,r,

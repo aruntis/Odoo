@@ -1,0 +1,4 @@
+id,name,model_id,group_id/id,operation,domain
+access_crm_dashboard,crm.dashboard,crm.dashboard,base.group_user,crud,
+access_amc_dashboard,amc.dashboard,amc.dashboard,base.group_user,crud,
+access_l4e_inventory_dashboard,l4e_inventory_dashboard,l4e.inventory.dashboard,stock.group_stock_user,crud,

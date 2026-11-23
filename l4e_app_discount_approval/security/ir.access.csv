@@ -1,0 +1,8 @@
+id,name,model_id,group_id/id,operation,domain
+access_l4e_discount_limit_user,l4e.discount.limit user,l4e.discount.limit,base.group_user,r,
+access_l4e_discount_limit_manager,l4e.discount.limit manager,l4e.discount.limit,l4e_app_discount_approval.group_discount_manager,crud,
+access_l4e_discount_tier_user,l4e.discount.tier user,l4e.discount.tier,base.group_user,r,
+access_l4e_discount_tier_manager,l4e.discount.tier manager,l4e.discount.tier,l4e_app_discount_approval.group_discount_manager,crud,
+access_l4e_discount_approval_request_user,l4e.discount.approval.request user,l4e.discount.approval.request,base.group_user,cru,
+access_l4e_discount_approval_request_manager,l4e.discount.approval.request manager,l4e.discount.approval.request,l4e_app_discount_approval.group_discount_manager,crud,
+access_l4e_discount_refuse_wizard,l4e.discount.refuse.wizard,l4e.discount.refuse.wizard,base.group_user,crud,

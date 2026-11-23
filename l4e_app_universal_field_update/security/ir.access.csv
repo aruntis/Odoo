@@ -1,0 +1,10 @@
+id,name,model_id,group_id/id,operation,domain
+access_universal_field_updater,universal.field.updater,universal.field.updater,group_universal_field_update_user,crud,
+access_universal_field_updater_line,universal.field.updater.line,universal.field.updater.line,group_universal_field_update_user,crud,
+access_universal_field_selection_option,universal.field.selection.option,universal.field.selection.option,group_universal_field_update_user,crud,
+access_universal_field_update_log_user,universal.field.update.log,universal.field.update.log,group_universal_field_update_user,r,
+access_universal_field_update_log_manager,universal.field.update.log,universal.field.update.log,group_universal_field_update_manager,crud,
+access_universal_field_update_log_line_user,universal.field.update.log.line,universal.field.update.log.line,group_universal_field_update_user,r,
+access_universal_field_update_log_line_manager,universal.field.update.log.line,universal.field.update.log.line,group_universal_field_update_manager,crud,
+access_universal_field_updater_global_line,universal.field.updater.global.line,universal.field.updater.global.line,group_universal_field_update_user,crud,
+access_universal_field_updater_global_record_line,universal.field.updater.global.record.line,universal.field.updater.global.record.line,group_universal_field_update_user,crud,
