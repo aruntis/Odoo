@@ -22,7 +22,7 @@
 {
     'name': 'Dashboard Collection (CRM, Sales, Finance, Inventory, AMC)',
     'version': '20.0.1.0.1',
-    'price': 199,
+    'price': 99,
     'currency': 'USD',
     'category': 'Extra Tools',
     'summary': 'All-in-one Dashboard Collection: Sales, Inventory, Accounting, and AMC',
@@ -36,7 +36,7 @@
         Visibility of each dashboard can be configured under settings, restricted to the system administrator.
     """,
     'author': 'Links4Engg Pvt. Ltd',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'depends': [
         'crm',
         'sale_management',

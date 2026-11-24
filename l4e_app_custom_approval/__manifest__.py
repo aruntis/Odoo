@@ -22,7 +22,7 @@
 {
     'name': 'Global Approval',
     'version': '20.0.5.0.0',
-    'price': 99,
+    'price': 89,
     'currency': 'USD',
     'category': 'Approvals',
     'summary': 'Dynamic Approval Engine — any model, any field, any condition, user-configured',
@@ -67,5 +67,5 @@ Models covered out-of-the-box:
     ],
     'installable': True,
     'auto_install': False,
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
 }
