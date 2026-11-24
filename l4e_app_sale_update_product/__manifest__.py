@@ -1,7 +1,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'L4E App Sale Update Product',
+    'name': 'Sale Update Product',
     'version': '20.0.1.0.0',
     'summary': 'Update product on confirmed sale orders without altering price or quantity',
     'description': """

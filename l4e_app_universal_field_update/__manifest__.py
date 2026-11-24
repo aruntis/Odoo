@@ -20,7 +20,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Universal Field Update',
+    'name': 'Universal Field Update',
     'version': '20.0.1.0.0',
     'price': 99,
     'currency': 'USD',

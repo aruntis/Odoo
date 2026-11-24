@@ -20,7 +20,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Discount Approval (Sales , Purchase , Finance)',
+    'name': 'Discount Approval (Sales , Purchase , Finance)',
     'version': '20.0.1.0.0',
     'price': 149,
     'currency': 'USD',
