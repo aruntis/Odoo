@@ -23,7 +23,7 @@
 {
     'name': 'Universal Field Update',
     'version': '1.0',
-    'price': 99,
+    'price': 89,
     'currency': 'USD',
     'category': 'Extra Tools',
     'summary': 'Inspect and bulk edit fields across all installed Odoo models safely with audit logs.',
@@ -61,6 +61,6 @@ Key Features:
     },
     'installable': True,
     'application': True,
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'images': ['static/description/banner_card.gif'],
 }
