@@ -23,7 +23,7 @@
 {
     'name': 'Simplify & Advanced Access Management Pro',
     'version': '18.0.1.0.0',
-    'price': 150,
+    'price': 99,
     'currency': 'USD',
     'category': 'Tools/Administration',
     'summary': 'All-in-one Access Management solution to restrict Menus, Models, Fields, Buttons, Tabs, Views, Chatter, Reports, Export/Import, and Debug Mode.',
@@ -45,7 +45,7 @@ Complete centralized security and access control suite:
     """,
     'author': 'Links4Engg Pvt. Ltd',
     'website': 'https://links4engg.com',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'depends': [
         'base',
         'web',

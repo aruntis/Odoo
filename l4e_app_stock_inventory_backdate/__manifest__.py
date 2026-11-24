@@ -23,7 +23,7 @@
 {
     'name': 'Inventory Adjustment Backdating',
     'version': '18.0.1.5.0',
-    'price': 70,
+    'price': 45,
     'currency': 'USD',
     'category': 'Inventory/Inventory',
     'summary': 'Move a validated inventory adjustment to a past date, together with its '
@@ -56,7 +56,7 @@ This is the Odoo 18 edition. Odoo 19 removed stock.valuation.layer and moved
 the valuation onto stock.move itself, so it needs the separate 19.0 build.
 """,
     'author': 'Links4Engg Pvt. Ltd',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'depends': ['stock_account'],
     'images': ['static/description/banner.gif'],
     'data': [

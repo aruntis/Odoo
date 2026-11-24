@@ -23,7 +23,7 @@
 {
     'name': 'Journal Entry Transfer / Bulk Change Journal & Account',
     'version': '18.0.5.0.1',
-    'price': 149,
+    'price': 79,
     'currency': 'USD',
     'category': 'Accounting',
     'summary': 'Allows changing the Journal and Account lines of posted invoices/bills via wizard.',
@@ -50,7 +50,7 @@ Key Features:
         'views/account_move_views.xml',
     ],
     'installable': True,
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'application': True,
     'images': ['static/description/banner.gif',]
 }
