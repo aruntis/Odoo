@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Global Approval',
+    'name': 'Global Approval',
     'version': '18.0.1.0.0',
     'price': 99,
     'currency': 'USD',

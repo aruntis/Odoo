@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Dashboard Collection (CRM, Sales, Finance, Inventory, AMC)',
+    'name': 'Dashboard Collection (CRM, Sales, Finance, Inventory, AMC)',
     'version': '18.0.1.0.1',
     'price': 199,
     'currency': 'USD',

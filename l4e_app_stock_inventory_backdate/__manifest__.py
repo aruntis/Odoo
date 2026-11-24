@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App - Inventory Adjustment Backdating',
+    'name': 'Inventory Adjustment Backdating',
     'version': '18.0.1.5.0',
     'price': 70,
     'currency': 'USD',

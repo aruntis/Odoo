@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    "name": "L4E App Custom Reports & Digital Signatures Suite",
+    "name": "Custom Reports & Digital Signatures Suite",
     "version": "18.0.1.0.1",
     'price': 49,
     'currency': 'USD',
