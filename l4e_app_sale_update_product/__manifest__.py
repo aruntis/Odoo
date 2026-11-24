@@ -19,7 +19,7 @@ L4E App Sale Update Product (Odoo 16.0)
     'category': 'Sales/Sales',
     'author': 'Links4Engg Pvt. Ltd',
     'website': 'https://links4engg.com',
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'depends': [
         'sale_management',
         'sale_stock',
