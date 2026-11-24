@@ -23,6 +23,8 @@
 {
     'name': 'Lot & Serial Number Manager (New & Existing Quantities)',
     'version': '19.0.1.0.0',
+    'currency': 'USD',
+    'price': 15,
     'category': 'Inventory/Inventory',
     'summary': 'Update and assign lot/serial numbers for existing on-hand stock quantity without duplicating stock',
     'description': """
