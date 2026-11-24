@@ -1,8 +1,10 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Sale Update Product',
+    'name': 'Sales Order Product Swap',
     'version': '17.0.1.0.0',
+    'currency': 'USD',
+    'price': 15,
     'summary': 'Update product on confirmed sale orders without altering price or quantity',
     'description': """
 L4E App Sale Update Product (Odoo 17.0)
