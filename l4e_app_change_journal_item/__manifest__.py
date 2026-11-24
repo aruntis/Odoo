@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Journal Entry Transfer / Bulk Change Journal & Account',
+    'name': 'Journal Entry Transfer / Bulk Change Journal & Account',
     'version': '16.0.5.0.1',
     'price': 149,
     'currency': 'USD',

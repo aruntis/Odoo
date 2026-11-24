@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    'name': 'L4E App Simplify & Advanced Access Management Pro',
+    'name': 'Simplify & Advanced Access Management Pro',
     'version': '16.0.1.0.0',
     'price': 150,
     'currency': 'USD',

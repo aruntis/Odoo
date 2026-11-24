@@ -21,7 +21,7 @@
 #
 ##############################################################################
 {
-    "name": "L4E App Tracking System",
+    "name": "Tracking System",
     "version": "16.0.1.0.0",
     'price': 49,
     'currency': 'USD',
